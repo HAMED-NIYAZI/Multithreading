@@ -1,2 +1,2 @@
 # Multithreading
- Show Current Thread Informations 
+ Shows Current Thread Informations 
